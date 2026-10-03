@@ -1,0 +1,14 @@
+[kdeglobals][General]
+ColorScheme=Awaria
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[plasmarc][Theme]
+name=Awaria
+
+[KSplash]
+Theme=com.awaria.desktop
+
+[Wallpaper]
+Image=Awaria_Ghosts

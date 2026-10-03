@@ -1,0 +1,10 @@
+{
+    "KPlugin": {
+        "Id": "com.awaria.splash",
+        "Name": "Awaria",
+        "Description": "Awaria-inspired Plasma splash screen",
+        "Version": "0.1.0",
+        "License": "GPL-3.0-or-later"
+    },
+    "X-Plasma-API": "6.0"
+}

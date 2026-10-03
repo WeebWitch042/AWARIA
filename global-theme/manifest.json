@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Id": "com.awaria.desktop",
+        "Name": "Awaria",
+        "Description": "Awaria-inspired KDE Plasma Global Theme",
+        "Version": "0.1.0",
+        "License": "GPL-3.0-or-later",
+        "Authors": [
+            {
+                "Name": "cicada_042"
+            }
+        ]
+    },
+    "KPackageStructure": "Plasma/LookAndFeel"
+}

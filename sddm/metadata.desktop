@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Awaria
+Description=Awaria-inspired SDDM theme
+Author=Awaria KDE Theme
+Copyright=
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.1.0
+Website=
+Screenshot=
+MainScript=main.qml

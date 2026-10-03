@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "Awaria_Ghosts",
+        "Name": "Awaria - Ghosts",
+        "Description": "Wallpaper included with the Awaria KDE theme",
+        "Version": "0.1.0",
+        "License": "See upstream artwork/license terms",
+        "Authors": [
+            {
+                "Name": "Awaria KDE Theme"
+            }
+        ]
+    }
+}

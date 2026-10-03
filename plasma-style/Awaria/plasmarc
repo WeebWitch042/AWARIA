@@ -1,0 +1,8 @@
+[Wallpaper]
+defaultWallpaperTheme=Awaria_Ghosts
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[AdaptiveTransparency]
+enabled=true
