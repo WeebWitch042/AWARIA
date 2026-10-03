@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "KWin/Decoration",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "WeebWitch042"
+            }
+        ],
+        "Description": "AWARIA KWin window decoration",
+        "Id": "Awaria-KWinDeco",
+        "License": "GPL-3.0-or-later",
+        "Name": "AWARIA"
+    },
+    "X-KWin-Config-TranslationDomain": "aurorae"
+}
